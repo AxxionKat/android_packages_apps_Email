@@ -15,5 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cancel_action">ரத்து</string>
+  <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
 </resources>
